@@ -1,4 +1,4 @@
-Introduction
+1. Introduction
 Project 1 develops a relational database for a Computer Engineering student management system. The database supports student personal information, fee payments, course enrolment, lecturer-to-course assignments, and teaching-assistant assignments. PostgreSQL provides the database platform, as required by the project brief.
 
 2. Objectives
